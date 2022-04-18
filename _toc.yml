@@ -3,6 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+
+
+# parts:
+#   - caption: Getting Started
+#     chapters:
+#     - file: Part_01/001_Setting_Up
+#     - file: Part_01/002_Some_Resources
+#   - caption: ML Algos as Black Box
+#     chapters:
+#     - file: Part_02/001_Introduction
+#   - caption: ML Algos from Scratch
+#     chapters:
+#     - file: Part_03/001_Introduction
+#   - caption: Case Studies
+#     chapters:
+#     - file: Part_04/001_Introduction
