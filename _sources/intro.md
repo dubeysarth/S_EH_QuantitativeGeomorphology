@@ -1,3 +1,3 @@
 # Welcome
 
-<img src = "/assets/images/comic.jpg" align = "center">
+<img src = "assets/images/comic.jpg" align = "center">
